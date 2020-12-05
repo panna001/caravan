@@ -29,10 +29,28 @@
   background: orange;
 }
 
+.main-visual-content {
+  width: 350px;
+  height: 300px;
+  background: gold;
+}
+
 .main {
   width: 100%;
   height: 1400px;
   background: green;
+}
+
+.blog {
+  width: 600px;
+  height: 600px;
+  background: limegreen
+}
+
+.sidebar {
+  width: 600px;
+  height: 600px;
+  background: palegreen;
 }
 
 .footer {
