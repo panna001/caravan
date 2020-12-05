@@ -5,34 +5,14 @@
   box-sizing: border-box;
 }
 
-.header {
-  width: 100%;
-  height: 120px;
-  background: red;
-}
-
-.header-top {
-  width: 100%;
-  height: 70px;
-  background: hotpink;
-}
-
-.header-bottom {
-  width: 100%;
-  height: 50px;
-  background: pink;
-}
-
 .main-visual {
   width: 100%;
   height: 300px;
-  background: orange;
 }
 
 .main-visual-content {
   width: 350px;
   height: 300px;
-  background: gold;
 }
 
 .main {
